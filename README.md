@@ -1,2 +1,2 @@
-# simplediscord
-Hah?
+Simple Discord Bot
+
